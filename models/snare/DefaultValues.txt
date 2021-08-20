@@ -1,0 +1,80 @@
+SineAFreq = 0.0
+SineAFrqAttackTime = 0.0
+SineAFrqDecayTime = 0.0
+SineAFrqEnvAmount = 0.0
+SineAFrqDecayExtendLevel = 0.0
+SineAFrqDecayExtendFactor = 0.0
+
+SineBFreq = 0.0
+SineBFrqAttackTime = 0.0
+SineBFrqDecayTime = 0.0
+SineBFrqEnvAmount = 0.0
+SineBFrqDecayExtendLevel = 0.0
+SineBFrqDecayExtendFactor = 0.0
+
+SineAAmpAttackTime = 0.0
+SineAAmpDecayTime = 0.0
+SineAAmpDecayExtendLevel = 0.0
+SineAAmpDecayExtendFactor = 0.0
+
+SineBAmpAttackTime = 0.0
+SineBAmpDecayTime = 0.0
+SineBAmpDecayExtendLevel = 0.0
+SineBAmpDecayExtendFactor = 0.0
+
+SidNoiseClockRate = 0.0
+
+FilterACutoff = 0.0
+FilterAQ = 0.0
+
+FilterBCutoff = 0.0
+FilterBQ = 0.0
+
+SidNoiseLPFAttackTime = 0.0
+SidNoiseLPFDecayTime = 0.0
+SidNoiseLPFDecayExtendLevel = 0.0
+SidNoiseLPFDecayExtendFactor = 0.0
+
+SidNoiseHPFAttackTime = 0.0
+SidNoiseHPFDecayTime = 0.0
+SidNoiseHPFDecayExtendLevel = 0.0
+SidNoiseHPFDecayExtendFactor = 0.0
+
+SidNoiseLPFMix = 0.0
+SidNoiseHPFMix = 0.0
+
+SineAMix = 0.0
+SineBMix = 0.0
+
+BodyCutoff = 0.0
+BodyQ = 0.0
+
+BodyMix = 0.0
+NoiseMix = 0.0
+TransientMix = 0.0
+
+DistortAmount = 0.0
+DistortAmount2 = 0.0
+
+DelayFeedbackLevel1 = 0.0
+DelayFeedbackLevel2 = 0.0
+DelayTime1 = 30.0
+DelayTime2 = 50.0
+
+DelayLevel1 = 0.0
+DelayLevel2 = 0.0
+
+DelayFeedback1FilterCutoff = 9000.0
+DelayFeedback1FilterQ = 0.7
+
+DelayFeedback2FilterCutoff = 200
+DelayFeedback2FilterQ = 0.7
+
+OutAttackTime = 0.0 
+OutDecayTime = 32700 
+OutDecayExtendLevel = 32700 
+OutDecayExtendFactor = 16
+
+OutLevel = 1.0
+
+NUM_PARAMS

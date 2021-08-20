@@ -1,0 +1,29 @@
+	BaseFrequency,
+	SqFrq1, SqFrq2, SqFrq3, SqFrq4, SqFrq5, SqFrq6,
+	SqGain1, SqGain2, SqGain3, SqGain4, SqGain5, SqGain6,
+	SrcNoise, NoiseSampleRate,
+	BPLow, BPLowQ,
+	BPMidHigh, BPMidHighQ,
+	BPGainLow, BPGainHi,
+
+	ShpMidHi,
+	SquaresAttackTime,
+
+	DcyLow, DcyExtendLow, DcyLowFactor,
+	DcyMid, DcyExtendMid, DcyMidFactor,
+	DcyHi, DcyExtendHi, DcyHiFactor,
+
+	NoiseAttackTime, DcyNoise, DcyExtendNoise, DcyNoiseFactor,
+
+	HPFLow, HPFLowQ,
+	HPFMid, HPFMidQ,
+	HPFHi, HPFHiQ,
+
+	MixLow, MixMid, MixHi,
+	HPFNoise, HPFNoiseQ,
+	MixNoise,
+	FlangeOffset, FlangeDepth, FlangeRate, FlangeFeedback, FlangeMix,
+	FlangeCutoff, FlangeRes,
+    OutLevel,
+	NUM_PARAMS
+	

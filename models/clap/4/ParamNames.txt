@@ -1,0 +1,17 @@
+WhiteNoiseMix, SidNoiseMix,
+WhiteFilterCutoff, WhiteFilterQ,
+SidNoiseFilterCutoff, SidNoiseFilterQ, NoiseSampleRate,
+DistortAmount,
+Rolls, RollTime, RollLowLevel, RollHighStart, RollHighStep, RollAttackTime,
+VerbAttackTime, VerbDecayTime, VerbDecayExtendLevel, VerbDecayExtendFactor,
+MainAttackTime, MainDecayTime, MainDecayExtendLevel, MainDecayExtendFactor,
+MainFilterCutoff, MainFilterRes,
+VerbFilterCutoff, VerbFilterRes,
+MainRollOutLevel, MainBodyOutLevel, VerbRollOutLevel, VerbBodyOutLevel,
+LowShelfCutoff, LowShelfGain, LowShelfSlope,
+HighShelfCutoff, HighShelfGain, HighShelfSlope,
+DryLevel, WetLevel,
+ReverbDamping, ReverbRoomSize,
+OutLevel,
+NUM_PARAMS
+	

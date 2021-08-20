@@ -1,0 +1,10 @@
+SineAFreq, SineAFrqAttackTime, SineAFrqDecayTime, SineAFrqEnvAmount, SineAFrqDecayExtendLevel, SineAFrqDecayExtendFactor,
+SineBFreq, SineBFrqAttackTime, SineBFrqDecayTime, SineBFrqEnvAmount, SineBFrqDecayExtendLevel, SineBFrqDecayExtendFactor,
+
+AmpAAttackTime, AmpADecayTime, AmpADecayExtendLevel, AmpADecayExtendFactor,
+AmpBAttackTime, AmpBDecayTime, AmpBDecayExtendLevel, AmpBDecayExtendFactor,
+
+NoiseCutoff, NoiseQ, NoiseAttackTime, NoiseDecayTime, NoiseDecayExtendLevel, NoiseDecayExtendFactor,
+SineAOutMix, SineBOutMix, NoiseOutMix, TransientMix,
+DistortAmount, OutLevel,
+NUM_PARAMS

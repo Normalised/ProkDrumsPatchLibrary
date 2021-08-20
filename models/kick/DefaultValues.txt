@@ -1,0 +1,72 @@
+SineAFreq = 100.0
+SineAFrqAttackTime = 0.0
+SineAFrqDecayTime = 0.0
+SineAFrqEnvAmount = 0.0
+SineAFrqDecayExtendLevel = 0.0
+SineAFrqDecayExtendFactor = 0.0
+SineBFreq = 200.0
+SineBFrqAttackTime = 0.0
+SineBFrqDecayTime = 0.0
+SineBFrqEnvAmount = 0.0
+SineBFrqDecayExtendLevel = 0.0
+SineBFrqDecayExtendFactor = 0.0
+
+AmpAAttackTime = 0.0
+AmpADecayTime = 50.0
+AmpADecayExtendLevel = 0.0
+AmpADecayExtendFactor = 0.0
+AmpBAttackTime = 0.0
+AmpBDecayTime = 100.0
+AmpBDecayExtendLevel = 0.0
+AmpBDecayExtendFactor = 0.0
+
+TriAFreq = 400.0
+TriAPulseWidth = 0.5
+TriAFrqAttackTime = 0.0
+TriAFrqDecayTime = 0.0
+TriAFrqEnvAmount = 0.0
+TriAFrqDecayExtendLevel = 0.0
+TriAFrqDecayExtendFactor = 0.0
+TriBFreq = 600.0
+TriBPulseWidth = 0.5
+TriBFrqAttackTime = 0.0
+TriBFrqDecayTime = 0.0
+TriBFrqEnvAmount = 0.0
+TriBFrqDecayExtendLevel = 0.0
+TriBFrqDecayExtendFactor = 0.0
+
+TriAAttackTime = 0.0
+TriADecayTime = 75.0
+TriADecayExtendLevel = 0.0
+TriADecayExtendFactor = 0.0
+TriBAttackTime = 0.0
+TriBDecayTime = 150.0
+TriBDecayExtendLevel = 0.0
+TriBDecayExtendFactor = 0.0
+
+TriAPhaseModAmount = 0.0
+TriBPhaseModAmount = 0.0
+
+OscCutoff =  10000
+OscQ = 1.0
+OscDistort = 0.0
+
+NoiseCutoff = 200.0
+NoiseQ = 0.0
+NoiseAttackTime = 0.0
+NoiseDecayTime = 50.0
+NoiseDecayExtendLevel = 0.0
+NoiseDecayExtendFactor = 0.0
+SineAOutMix = 1.0
+SineBOutMix = 0.7
+TriAOutMix = 0.0
+TriBOutMix = 0.0
+OscOutMix = 1.0
+NoiseOutMix = 0.0
+TransientMix = 0.5
+DistortAmount = 0.0
+OutAttackTime = 4.0
+OutDecayTime = 32000.0
+OutDecayExtendLevel = 32000.0
+OutDecayExtendFactor = 16.0
+OutLevel = 0.9

@@ -1,0 +1,17 @@
+SineAFreq, SineAFrqAttackTime, SineAFrqDecayTime, SineAFrqEnvAmount, SineAFrqDecayExtendLevel, SineAFrqDecayExtendFactor,
+SineBFreq, SineBFrqAttackTime, SineBFrqDecayTime, SineBFrqEnvAmount, SineBFrqDecayExtendLevel, SineBFrqDecayExtendFactor,
+
+AmpAAttackTime, AmpADecayTime, AmpADecayExtendLevel, AmpADecayExtendFactor,
+AmpBAttackTime, AmpBDecayTime, AmpBDecayExtendLevel, AmpBDecayExtendFactor,
+
+TriAFreq, TriAPulseWidth, TriAFrqAttackTime, TriAFrqDecayTime, TriAFrqEnvAmount, TriAFrqDecayExtendLevel, TriAFrqDecayExtendFactor,
+TriBFreq, TriBPulseWidth, TriBFrqAttackTime, TriBFrqDecayTime, TriBFrqEnvAmount, TriBFrqDecayExtendLevel, TriBFrqDecayExtendFactor,
+
+TriAAttackTime, TriADecayTime, TriADecayExtendLevel, TriADecayExtendFactor,
+TriBAttackTime, TriBDecayTime, TriBDecayExtendLevel, TriBDecayExtendFactor,
+
+NoiseCutoff, NoiseQ, NoiseAttackTime, NoiseDecayTime, NoiseDecayExtendLevel, NoiseDecayExtendFactor,
+SineAOutMix, SineBOutMix, TriAOutMix, TriBOutMix,
+OscOutMix, NoiseOutMix, TransientMix,
+DistortAmount, OutLevel,
+NUM_PARAMS
